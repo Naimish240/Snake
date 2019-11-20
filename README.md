@@ -1,5 +1,5 @@
 # Snake
-======
+===
 A simple environment written in python 3.6 for the game snake for [open AI Request for research 2.0](https://openai.com/blog/requests-for-research-2/)
 
 Table of Contents
