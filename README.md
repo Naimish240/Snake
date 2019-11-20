@@ -36,8 +36,10 @@ The game of snake has very simple rules:
 ## Modes
 
 #### Human Player
-Status : [x]
+Status : **Implemented**
+
 Usage : `python3 game.py --agent H`
+
 Allows for a human player to interact with the game and play it.
 
 Use arrow keys for movement.
@@ -47,12 +49,12 @@ Have fun, and DFTBA!
 ## Task List
 List of features and algorithms to implement:
 - [x] Human Player
-- [] Random path
-- [] BFS
-- [] DFS (recursive)
-- [] DFS (iterative)
-- [] Dijkstra
-- [] A*
-- [] Neural Network
-- [] Monte Carlo
-- [] Genetic algorithm   
+- [ ] Random path
+- [ ] BFS
+- [ ] DFS (recursive)
+- [ ] DFS (iterative)
+- [ ] Dijkstra
+- [ ] A*
+- [ ] Neural Network
+- [ ] Monte Carlo
+- [ ] Genetic algorithm   
